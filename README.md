@@ -61,7 +61,7 @@ This project presents a **4-page interactive Power BI dashboard** designed to an
 ## 📬 Feedback
 
 I’m always looking to improve and grow!  
-Feel free to open an issue or connect with me on [LinkedIn](#) for suggestions, collaborations, or feedback.
+Feel free to open an issue or connect with me on [[LinkedIn](https://www.linkedin.com/in/yashraut28/)](#) for suggestions, collaborations, or feedback.
 
 ---
 
